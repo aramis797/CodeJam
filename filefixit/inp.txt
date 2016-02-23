@@ -1,0 +1,91 @@
+1
+0 6
+/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+/ppppppppppppppppppppppppppppppppppppppppppppppppp
+/ppppppppppppppppppppppppppppppppppppppppppppppppp/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/ppppppppppppppppppppppppppppppppppppppppppppppppp
+/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+/ppppppppppppppppppppppppppppppppppppppppppppppppp/ppppppppppppppppppppppppppppppppppppppppppppppppp
+7 9
+/wr0
+/6
+/9m/5q
+/k/wr0
+/k
+/6/9m
+/9m
+/9gw/5q
+/9gw
+/x9l/3f
+/9gw/5q/s
+/9gw/5q/wr0
+/x9l/qgi/x9l
+/x9l
+/9gw/5q/4b/wr0/wr0
+/9gw/5q/1xg
+10 9
+/oj7
+/oj7/wtw/vd1
+/oj7/wtw
+/4ag
+/oj7/zfh
+/414
+/oj7/3g
+/oj7/jnt
+/oj7/iy0
+/oj7/gx9
+/x9/3g/usc/iy0/4ag/gx9/qd/3vi/qd
+/w2/4ag/w2
+/a8/qd/ne
+/x9/3g/usc/iy0/4ag/gx9/qd
+/a8/x9
+/x9/bp/3vi/vd1/rv
+/a8/xa/wtw/jnt
+/a8/um/a8/3g/qd/w2/4ag/2k
+/w2/bp/4ag/jnt/6zd
+3 10
+/mej
+/y
+/rm
+/cdl
+/l/h/p/7
+/wsg
+/h0s/h
+/h/lu
+/m65/u6
+/98
+/ycu/r
+/h
+/y
+0 2
+/home/gcj/finals
+/home/gcj/quals
+2 1
+/chicken
+/chicken/egg
+/chicken
+1 3
+/a
+/a/b
+/a/c
+/b/b
+5 3
+/a/b
+/s
+/b/a
+/b
+/c
+/s/d/o
+/c/c
+/b/d
+5 5
+/root/bin
+/root/bin/power
+/bin/lib/
+/usr/share
+/usr/share/applications
+/root
+/root/bin
+/usr
+/usr/share
+/bin/lib
